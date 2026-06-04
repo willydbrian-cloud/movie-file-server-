@@ -1,0 +1,920 @@
+[
+    {
+        "id": 1,
+        "title": "Inception",
+        "year": 2010,
+        "genre": "Sci-Fi",
+        "rating": 8.8,
+        "poster": "inception.jpg",
+        "description": "A thief enters people's dreams to steal secrets."
+    },
+    {
+        "id": 2,
+        "title": "The Dark Knight",
+        "year": 2008,
+        "genre": "Action",
+        "rating": 9,
+        "poster": "dark_knight.jpg",
+        "description": "Batman faces the Joker in Gotham City."
+    },
+    {
+        "id": 3,
+        "title": "Interstellar",
+        "year": 2014,
+        "genre": "Sci-Fi",
+        "rating": 8.6,
+        "poster": "interstellar.jpg",
+        "description": "Explorers travel through a wormhole to save humanity."
+    },
+    {
+        "id": 4,
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "genre": "Superhero",
+        "rating": 8.4,
+        "poster": "endgame.jpg",
+        "description": "The Avengers unite to defeat Thanos."
+    },
+    {
+        "id": 5,
+        "title": "Parasite",
+        "year": 2019,
+        "genre": "Thriller",
+        "rating": 8.6,
+        "poster": "parasite.jpg",
+        "description": "A poor family infiltrates a wealthy household."
+    },
+    {
+        "id": 6,
+        "title": "Gladiator",
+        "year": 2000,
+        "genre": "Historical Drama",
+        "rating": 8.5,
+        "poster": "gladiator.jpg",
+        "description": "A betrayed Roman general seeks revenge."
+    },
+    {
+        "id": 7,
+        "title": "Titanic",
+        "year": 1997,
+        "genre": "Romance",
+        "rating": 7.9,
+        "poster": "titanic.jpg",
+        "description": "A love story unfolds aboard the doomed ship."
+    },
+    {
+        "id": 8,
+        "title": "The Matrix",
+        "year": 1999,
+        "genre": "Sci-Fi",
+        "rating": 8.7,
+        "poster": "matrix.jpg",
+        "description": "A hacker discovers reality is a simulation."
+    },
+    {
+        "id": 9,
+        "title": "Joker",
+        "year": 2019,
+        "genre": "Drama",
+        "rating": 8.4,
+        "poster": "joker.jpg",
+        "description": "Arthur Fleck transforms into the Joker."
+    },
+    {
+        "id": 10,
+        "title": "Black Panther",
+        "year": 2018,
+        "genre": "Superhero",
+        "rating": 7.3,
+        "poster": "black_panther.jpg",
+        "description": "T'Challa defends Wakanda as Black Panther."
+    },
+    {
+        "id": 11,
+        "title": "Shutter Island",
+        "year": 2010,
+        "genre": "Mystery",
+        "rating": 8.2,
+        "poster": "shutter_island.jpg",
+        "description": "Detectives investigate a psychiatric facility."
+    },
+    {
+        "id": 12,
+        "title": "The Godfather",
+        "year": 1972,
+        "genre": "Crime",
+        "rating": 9.2,
+        "poster": "godfather.jpg",
+        "description": "The Corleone family navigates power and loyalty."
+    },
+    {
+        "id": 13,
+        "title": "Forrest Gump",
+        "year": 1994,
+        "genre": "Drama",
+        "rating": 8.8,
+        "poster": "forrest_gump.jpg",
+        "description": "The extraordinary life of Forrest Gump."
+    },
+    {
+        "id": 14,
+        "title": "Fight Club",
+        "year": 1999,
+        "genre": "Drama",
+        "rating": 8.8,
+        "poster": "fight_club.jpg",
+        "description": "An underground fight club spirals out of control."
+    },
+    {
+        "id": 15,
+        "title": "The Lion King",
+        "year": 1994,
+        "genre": "Animation",
+        "rating": 8.5,
+        "poster": "lion_king.jpg",
+        "description": "Simba rises to become king of the Pride Lands."
+    },
+    {
+        "id": 16,
+        "title": "Avengers: Infinity War",
+        "year": 2018,
+        "genre": "Superhero",
+        "rating": 8.5,
+        "poster": "infinity_war.jpg",
+        "description": "The Avengers battle Thanos for the Infinity Stones."
+    },
+    {
+        "id": 17,
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "genre": "Drama",
+        "rating": 9.3,
+        "poster": "shawshank.jpg",
+        "description": "Two imprisoned men bond over decades."
+    },
+    {
+        "id": 18,
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "genre": "Crime",
+        "rating": 8.9,
+        "poster": "pulp_fiction.jpg",
+        "description": "Interwoven stories of crime and redemption."
+    },
+    {
+        "id": 19,
+        "title": "The Avengers",
+        "year": 2012,
+        "genre": "Superhero",
+        "rating": 8,
+        "poster": "avengers.jpg",
+        "description": "Earth's mightiest heroes unite against Loki."
+    },
+    {
+        "id": 20,
+        "title": "Doctor Strange",
+        "year": 2016,
+        "genre": "Superhero",
+        "rating": 7.5,
+        "poster": "doctor_strange.jpg",
+        "description": "A surgeon becomes the Sorcerer Supreme."
+    },
+    {
+        "id": 21,
+        "title": "Fast & Furious",
+        "year": 2009,
+        "genre": "Action",
+        "rating": 6.6,
+        "poster": "fast_furious.jpg",
+        "description": "Dominic Toretto and Brian O'Conner reunite to take down a drug lord."
+    },
+    {
+        "id": 22,
+        "title": "Mad Max: Fury Road",
+        "year": 2015,
+        "genre": "Action",
+        "rating": 8.1,
+        "poster": "mad_max_fury_road.jpg",
+        "description": "In a post-apocalyptic wasteland, Max teams up with Furiosa to escape a tyrant."
+    },
+    {
+        "id": 23,
+        "title": "The Expendables",
+        "year": 2010,
+        "genre": "Action",
+        "rating": 6.5,
+        "poster": "expendables.jpg",
+        "description": "A team of mercenaries is hired to overthrow a dictator."
+    },
+    {
+        "id": 24,
+        "title": "Transformers",
+        "year": 2007,
+        "genre": "Sci-Fi",
+        "rating": 7,
+        "poster": "transformers.jpg",
+        "description": "Humans become involved in the war between Autobots and Decepticons."
+    },
+    {
+        "id": 25,
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": 2003,
+        "genre": "Adventure",
+        "rating": 8,
+        "poster": "pirates_black_pearl.jpg",
+        "description": "Captain Jack Sparrow joins forces to rescue Elizabeth Swann from cursed pirates."
+    },
+    {
+        "id": 26,
+        "title": "Frankenstein",
+        "year": 1931,
+        "genre": "Horror",
+        "rating": 7.8,
+        "poster": "frankenstein.jpg",
+        "description": "Dr. Frankenstein creates a monster that struggles with humanity."
+    },
+    {
+        "id": 27,
+        "title": "Death Race",
+        "year": 2008,
+        "genre": "Action",
+        "rating": 6.4,
+        "poster": "death_race.jpg",
+        "description": "Prisoners compete in a deadly car race for freedom."
+    },
+    {
+        "id": 28,
+        "title": "John Wick",
+        "year": 2014,
+        "genre": "Action",
+        "rating": 7.4,
+        "poster": "john_wick.jpg",
+        "description": "An ex-hitman seeks vengeance after his dog is killed."
+    },
+    {
+        "id": 29,
+        "title": "Edge of Tomorrow",
+        "year": 2014,
+        "genre": "Sci-Fi",
+        "rating": 7.9,
+        "poster": "edge_of_tomorrow.jpg",
+        "description": "A soldier relives the same day fighting aliens until he finds a way to win."
+    },
+    {
+        "id": 30,
+        "title": "The Bourne Identity",
+        "year": 2002,
+        "genre": "Thriller",
+        "rating": 7.9,
+        "poster": "bourne_identity.jpg",
+        "description": "A man with amnesia discovers he is a trained assassin."
+    },
+    {
+        "id": 31,
+        "title": "Skyfall",
+        "year": 2012,
+        "genre": "Spy",
+        "rating": 7.8,
+        "poster": "skyfall.jpg",
+        "description": "James Bond investigates attacks on MI6 and faces a vengeful enemy."
+    },
+    {
+        "id": 32,
+        "title": "The Hunger Games",
+        "year": 2012,
+        "genre": "Adventure",
+        "rating": 7.2,
+        "poster": "hunger_games.jpg",
+        "description": "Katniss Everdeen volunteers to fight in a deadly televised competition."
+    },
+    {
+        "id": 33,
+        "title": "The Terminator",
+        "year": 1984,
+        "genre": "Sci-Fi",
+        "rating": 8.1,
+        "poster": "terminator.jpg",
+        "description": "A cyborg assassin is sent back in time to kill Sarah Connor."
+    },
+    {
+        "id": 34,
+        "title": "Resident Evil",
+        "year": 2002,
+        "genre": "Horror",
+        "rating": 6.7,
+        "poster": "resident_evil.jpg",
+        "description": "A special team fights zombies in an underground facility."
+    },
+    {
+        "id": 35,
+        "title": "The Mummy",
+        "year": 1999,
+        "genre": "Adventure",
+        "rating": 7,
+        "poster": "mummy.jpg",
+        "description": "Adventurers awaken an ancient curse in Egypt."
+    },
+    {
+        "id": 36,
+        "title": "Pacific Rim",
+        "year": 2013,
+        "genre": "Sci-Fi",
+        "rating": 6.9,
+        "poster": "pacific_rim.jpg",
+        "description": "Humans pilot giant robots to fight monstrous Kaiju."
+    },
+    {
+        "id": 37,
+        "title": "300",
+        "year": 2006,
+        "genre": "Historical Action",
+        "rating": 7.6,
+        "poster": "300.jpg",
+        "description": "King Leonidas leads 300 Spartans against the Persian army."
+    },
+    {
+        "id": 38,
+        "title": "The Equalizer",
+        "year": 2014,
+        "genre": "Action",
+        "rating": 7.2,
+        "poster": "equalizer.jpg",
+        "description": "A retired agent uses his skills to protect the helpless."
+    },
+    {
+        "id": 39,
+        "title": "Taken",
+        "year": 2008,
+        "genre": "Thriller",
+        "rating": 7.8,
+        "poster": "taken.jpg",
+        "description": "A father uses his skills to rescue his kidnapped daughter."
+    },
+    {
+        "id": 40,
+        "title": "The Fast and the Furious: Tokyo Drift",
+        "year": 2006,
+        "genre": "Action",
+        "rating": 6,
+        "poster": "tokyo_drift.jpg",
+        "description": "A street racer moves to Tokyo and enters the drifting scene."
+    },
+    {
+        "id": 41,
+        "title": "Tenet",
+        "year": 2020,
+        "genre": "Sci-Fi",
+        "rating": 7.4,
+        "poster": "tenet.jpg",
+        "description": "A secret agent manipulates time to prevent World War III."
+    },
+    {
+        "id": 42,
+        "title": "Mission Impossible: Fallout",
+        "year": 2018,
+        "genre": "Action",
+        "rating": 7.7,
+        "poster": "mi_fallout.jpg",
+        "description": "Ethan Hunt and his team race against time after a mission goes wrong."
+    },
+    {
+        "id": 43,
+        "title": "Mission Impossible: Ghost Protocol",
+        "year": 2011,
+        "genre": "Action",
+        "rating": 7.4,
+        "poster": "mi_ghost_protocol.jpg",
+        "description": "The IMF is shut down and Ethan Hunt must clear their name."
+    },
+    {
+        "id": 44,
+        "title": "The 100",
+        "year": 2014,
+        "genre": "Sci-Fi TV Series",
+        "rating": 7.6,
+        "poster": "the_100.jpg",
+        "description": "A group of young survivors return to Earth after a nuclear apocalypse."
+    },
+    {
+        "id": 45,
+        "title": "The Suicide Squad",
+        "year": 2021,
+        "genre": "Superhero",
+        "rating": 7.2,
+        "poster": "suicide_squad.jpg",
+        "description": "A team of villains is sent on a dangerous mission by Amanda Waller."
+    },
+    {
+        "id": 46,
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "genre": "Superhero",
+        "rating": 8,
+        "poster": "guardians.jpg",
+        "description": "A ragtag group of misfits must save the galaxy."
+    },
+    {
+        "id": 47,
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "year": 2022,
+        "genre": "Superhero",
+        "rating": 6.9,
+        "poster": "doctor_strange2.jpg",
+        "description": "Doctor Strange explores the multiverse to stop a new threat."
+    },
+    {
+        "id": 48,
+        "title": "Wonder Woman",
+        "year": 2017,
+        "genre": "Superhero",
+        "rating": 7.4,
+        "poster": "wonder_woman.jpg",
+        "description": "Diana Prince discovers her powers during World War I."
+    },
+    {
+        "id": 49,
+        "title": "Justice League",
+        "year": 2017,
+        "genre": "Superhero",
+        "rating": 6.3,
+        "poster": "justice_league.jpg",
+        "description": "Batman and Wonder Woman assemble heroes to fight Steppenwolf."
+    },
+    {
+        "id": 50,
+        "title": "Aquaman",
+        "year": 2018,
+        "genre": "Superhero",
+        "rating": 6.9,
+        "poster": "aquaman.jpg",
+        "description": "Arthur Curry embraces his destiny as king of Atlantis."
+    },
+    {
+        "id": 51,
+        "title": "Deadpool",
+        "year": 2016,
+        "genre": "Superhero",
+        "rating": 8,
+        "poster": "deadpool.jpg",
+        "description": "A mercenary with a twisted sense of humor seeks revenge."
+    },
+    {
+        "id": 52,
+        "title": "Logan",
+        "year": 2017,
+        "genre": "Superhero",
+        "rating": 8.1,
+        "poster": "logan.jpg",
+        "description": "An aging Wolverine protects a young mutant."
+    },
+    {
+        "id": 53,
+        "title": "X-Men: Days of Future Past",
+        "year": 2014,
+        "genre": "Superhero",
+        "rating": 7.9,
+        "poster": "xmen_days.jpg",
+        "description": "Mutants send Wolverine back in time to change history."
+    },
+    {
+        "id": 54,
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "genre": "Superhero",
+        "rating": 8.3,
+        "poster": "spiderman_no_way_home.jpg",
+        "description": "Spider-Man faces villains from across the multiverse."
+    },
+    {
+        "id": 55,
+        "title": "The Amazing Spider-Man",
+        "year": 2012,
+        "genre": "Superhero",
+        "rating": 6.9,
+        "poster": "amazing_spiderman.jpg",
+        "description": "Peter Parker discovers his powers and faces the Lizard."
+    },
+    {
+        "id": 56,
+        "title": "Iron Man",
+        "year": 2008,
+        "genre": "Superhero",
+        "rating": 7.9,
+        "poster": "ironman.jpg",
+        "description": "Tony Stark builds a suit of armor to fight evil."
+    },
+    {
+        "id": 57,
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014,
+        "genre": "Superhero",
+        "rating": 7.7,
+        "poster": "winter_soldier.jpg",
+        "description": "Captain America uncovers a conspiracy within S.H.I.E.L.D."
+    },
+    {
+        "id": 58,
+        "title": "Thor: Ragnarok",
+        "year": 2017,
+        "genre": "Superhero",
+        "rating": 7.9,
+        "poster": "thor_ragnarok.jpg",
+        "description": "Thor must stop Hela and prevent Ragnarok."
+    },
+    {
+        "id": 59,
+        "title": "Black Widow",
+        "year": 2021,
+        "genre": "Superhero",
+        "rating": 6.7,
+        "poster": "black_widow.jpg",
+        "description": "Natasha Romanoff confronts her past as a spy."
+    },
+    {
+        "id": 60,
+        "title": "Captain Marvel",
+        "year": 2019,
+        "genre": "Superhero",
+        "rating": 6.8,
+        "poster": "captain_marvel.jpg",
+        "description": "Carol Danvers becomes one of the universe's most powerful heroes."
+    },
+    {
+        "id": 61,
+        "title": "Agents of S.H.I.E.L.D.",
+        "year": 2013,
+        "genre": "Superhero TV Series",
+        "rating": 7.5,
+        "poster": "agents_shield.jpg",
+        "description": "Phil Coulson leads a team investigating strange events in the Marvel universe."
+    },
+    {
+        "id": 62,
+        "title": "Power",
+        "year": 2014,
+        "genre": "Crime Drama",
+        "rating": 8.1,
+        "poster": "power.jpg",
+        "description": "James St. Patrick balances life as a nightclub owner and drug kingpin."
+    },
+    {
+        "id": 63,
+        "title": "The Blacklist",
+        "year": 2013,
+        "genre": "Crime Thriller",
+        "rating": 8,
+        "poster": "blacklist.jpg",
+        "description": "A criminal mastermind helps the FBI catch dangerous fugitives."
+    },
+    {
+        "id": 64,
+        "title": "Breaking Bad",
+        "year": 2008,
+        "genre": "Crime Drama",
+        "rating": 9.5,
+        "poster": "breaking_bad.jpg",
+        "description": "A chemistry teacher turns to making meth to secure his family's future."
+    },
+    {
+        "id": 65,
+        "title": "Better Call Saul",
+        "year": 2015,
+        "genre": "Crime Drama",
+        "rating": 8.7,
+        "poster": "better_call_saul.jpg",
+        "description": "The origin story of lawyer Jimmy McGill before becoming Saul Goodman."
+    },
+    {
+        "id": 66,
+        "title": "Peaky Blinders",
+        "year": 2013,
+        "genre": "Historical Crime",
+        "rating": 8.8,
+        "poster": "peaky_blinders.jpg",
+        "description": "A gangster family rises to power in post‑WWI Birmingham."
+    },
+    {
+        "id": 67,
+        "title": "The Witcher",
+        "year": 2019,
+        "genre": "Fantasy", 
+        "rating": 8.2,
+        "poster": "witcher.jpg",
+        "description": "Geralt of Rivia hunts monsters in a morally complex world."
+    },
+    {
+        "id": 68,
+        "title": "Game of Thrones",
+        "year": 2011,
+        "genre": "Fantasy",
+        "rating": 9.2,
+        "poster": "got.jpg",
+        "description": "Noble families vie for control of the Iron Throne."
+    },
+    {
+        "id": 69,
+        "title": "House of the Dragon",
+        "year": 2022,
+        "genre": "Fantasy",
+        "rating": 8.5,
+        "poster": "house_dragon.jpg",
+        "description": "The Targaryen dynasty faces civil war over succession."
+    },
+    {
+        "id": 70,
+        "title": "The Hobbit: An Unexpected Journey",
+        "year": 2012,
+        "genre": "Fantasy",
+        "rating": 7.8,
+        "poster": "hobbit1.jpg",
+        "description": "Bilbo Baggins joins a quest to reclaim a lost kingdom."
+    },
+    {
+        "id": 71,
+        "title": "The Hobbit: The Desolation of Smaug",
+        "year": 2013,
+        "genre": "Fantasy",
+        "rating": 7.8,
+        "poster": "hobbit2.jpg",
+        "description": "Bilbo confronts the dragon Smaug inside the Lonely Mountain."
+    },
+    {
+        "id": 72,
+        "title": "The Hobbit: The Battle of the Five Armies",
+        "year": 2014,
+        "genre": "Fantasy",
+        "rating": 7.4,
+        "poster": "hobbit3.jpg",
+        "description": "Armies clash for control of the Lonely Mountain."
+    },
+    {
+        "id": 73,
+        "title": "Star Wars: A New Hope",
+        "year": 1977,
+        "genre": "Sci-Fi",
+        "rating": 8.6,
+        "poster": "starwars_newhope.jpg",
+        "description": "Luke Skywalker joins the Rebel Alliance to fight the Empire."
+    },
+    {
+        "id": 74,
+        "title": "Star Wars: The Empire Strikes Back",
+        "year": 1980,
+        "genre": "Sci-Fi",
+        "rating": 8.7,
+        "poster": "starwars_empire.jpg",
+        "description": "The Rebels face defeat as Luke trains with Yoda."
+    },
+    {
+        "id": 75,
+        "title": "Star Wars: Return of the Jedi",
+        "year": 1983,
+        "genre": "Sci-Fi",
+        "rating": 8.3,
+        "poster": "starwars_jedi.jpg",
+        "description": "Luke confronts Darth Vader and the Emperor."
+    },
+    {
+        "id": 76,
+        "title": "Star Wars: The Force Awakens",
+        "year": 2015,
+        "genre": "Sci-Fi",
+        "rating": 7.9,
+        "poster": "starwars_force.jpg",
+        "description": "A new hero rises as the First Order threatens the galaxy."
+    },
+    {
+        "id": 77,
+        "title": "Star Wars: The Last Jedi",
+        "year": 2017,
+        "genre": "Sci-Fi",
+        "rating": 7,
+        "poster": "starwars_lastjedi.jpg",
+        "description": "Rey trains with Luke while the Resistance fights for survival."
+    },
+    {
+        "id": 78,
+        "title": "Star Wars: The Rise of Skywalker",
+        "year": 2019,
+        "genre": "Sci-Fi",
+        "rating": 6.6,
+        "poster": "starwars_rise.jpg",
+        "description": "The final battle between the Resistance and the First Order."
+    },
+    {
+        "id": 79,
+        "title": "Obi-Wan Kenobi",
+        "year": 2022,
+        "genre": "Sci-Fi TV Series",
+        "rating": 7.1,
+        "poster": "obiwan.jpg",
+        "description": "Obi-Wan watches over young Luke while facing his past."
+    },
+    {
+        "id": 80,
+        "title": "Andor",
+        "year": 2022,
+        "genre": "Sci-Fi TV Series",
+        "rating": 8.4,
+        "poster": "andor.jpg",
+        "description": "Cassian Andor’s journey to becoming a Rebel hero."
+    },
+    {
+        "id": 81,
+        "title": "Prison Break",
+        "year": 2005,
+        "genre": "Thriller TV Series",
+        "rating": 8.3,
+        "poster": "prison_break.jpg",
+        "description": "Michael Scofield devises an elaborate plan to break his brother out of prison."
+    },
+    {
+        "id": 82,
+        "title": "Money Heist",
+        "year": 2017,
+        "genre": "Crime Drama",
+        "rating": 8.2,
+        "poster": "money_heist.jpg",
+        "description": "A criminal mastermind leads a group in a daring heist on the Royal Mint of Spain."
+    },
+    {
+        "id": 83,
+        "title": "Stranger Things",
+        "year": 2016,
+        "genre": "Sci-Fi Horror",
+        "rating": 8.7,
+        "poster": "stranger_things.jpg",
+        "description": "Kids in Hawkins uncover supernatural mysteries linked to the Upside Down."
+    },
+    {
+        "id": 84,
+        "title": "Squid Game",
+        "year": 2021,
+        "genre": "Thriller",
+        "rating": 8,
+        "poster": "squid_game.jpg",
+        "description": "Contestants risk their lives in deadly children's games for a cash prize."
+    },
+    {
+        "id": 85,
+        "title": "Narcos",
+        "year": 2015,
+        "genre": "Crime Drama",
+        "rating": 8.8,
+        "poster": "narcos.jpg",
+        "description": "The rise and fall of Pablo Escobar and the Medellín cartel."
+    },
+    {
+        "id": 86,
+        "title": "Narcos: Mexico",
+        "year": 2018,
+        "genre": "Crime Drama",
+        "rating": 8.4,
+        "poster": "narcos_mexico.jpg",
+        "description": "The origins of Mexico's drug war and the Guadalajara cartel."
+    },
+    {
+        "id": 87,
+        "title": "The Boys",
+        "year": 2019,
+        "genre": "Superhero Satire",
+        "rating": 8.7,
+        "poster": "the_boys.jpg",
+        "description": "A group of vigilantes fight corrupt superheroes backed by a powerful corporation."
+    },
+    {
+        "id": 88,
+        "title": "The Crown",
+        "year": 2016,
+        "genre": "Historical Drama",
+        "rating": 8.6,
+        "poster": "the_crown.jpg",
+        "description": "The reign of Queen Elizabeth II and the challenges of the monarchy."
+    },
+    {
+        "id": 89,
+        "title": "Ozark",
+        "year": 2017,
+        "genre": "Crime Drama",
+        "rating": 8.5,
+        "poster": "ozark.jpg",
+        "description": "A financial planner relocates his family to launder money for a cartel."
+    },
+    {
+        "id": 90,
+        "title": "Lucifer",
+        "year": 2016,
+        "genre": "Fantasy Crime",
+        "rating": 8.1,
+        "poster": "lucifer.jpg",
+        "description": "The Devil abandons Hell to run a nightclub in Los Angeles and assist the LAPD."
+    },
+    {
+        "id": 91,
+        "title": "Breaking Bad: El Camino",
+        "year": 2019,
+        "genre": "Crime Drama",
+        "rating": 7.3,
+        "poster": "el_camino.jpg",
+        "description": "Jesse Pinkman seeks freedom after escaping captivity."
+    },
+    {
+        "id": 92,
+        "title": "Dexter",
+        "year": 2006,
+        "genre": "Crime Thriller",
+        "rating": 8.6,
+        "poster": "dexter.jpg",
+        "description": "A forensic expert moonlights as a vigilante serial killer."
+    },
+    {
+        "id": 93,
+        "title": "Homeland",
+        "year": 2011,
+        "genre": "Spy Thriller",
+        "rating": 8.3,
+        "poster": "homeland.jpg",
+        "description": "A CIA officer suspects a rescued POW has been turned by terrorists."
+    },
+    {
+        "id": 94,
+        "title": "House of Cards",
+        "year": 2013,
+        "genre": "Political Drama",
+        "rating": 8.7,
+        "poster": "house_cards.jpg",
+        "description": "Frank Underwood manipulates his way to power in Washington."
+    },
+    {
+        "id": 95,
+        "title": "Westworld",
+        "year": 2016,
+        "genre": "Sci-Fi",
+        "rating": 8.6,
+        "poster": "westworld.jpg",
+        "description": "A futuristic theme park populated by androids spirals out of control."
+    },
+    {
+        "id": 96,
+        "title": "Chernobyl",
+        "year": 2019,
+        "genre": "Historical Drama",
+        "rating": 9.4,
+        "poster": "chernobyl.jpg",
+        "description": "The story of the 1986 nuclear disaster and its aftermath."
+    },
+    {
+        "id": 97,
+        "title": "The Mandalorian",
+        "year": 2019,
+        "genre": "Sci-Fi",
+        "rating": 8.7,
+        "poster": "mandalorian.jpg",
+        "description": "A lone bounty hunter navigates the galaxy after the fall of the Empire."
+    },
+    {
+        "id": 98,
+        "title": "The Last of Us",
+        "year": 2023,
+        "genre": "Post-Apocalyptic Drama",
+        "rating": 9,
+        "poster": "last_of_us.jpg",
+        "description": "Joel and Ellie journey across a ravaged America after a fungal outbreak."
+    },
+    {
+        "id": 99,
+        "title": "Vikings",
+        "year": 2013,
+        "genre": "Historical Drama",
+        "rating": 8.5,
+        "poster": "vikings.jpg",
+        "description": "The legendary Norse hero Ragnar Lothbrok rises to power."
+    },
+    {
+        "id": 100,
+        "title": "The Walking Dead",
+        "year": 2010,
+        "genre": "Horror Drama",
+        "rating": 8.1,
+        "poster": "walking_dead.jpg",
+        "description": "Survivors struggle against zombies and human threats in a post-apocalyptic world."
+    },
+    {
+        "id": 101,
+        "title": "expanse",
+        "year": 2014,
+        "genre": "Sci-fi",
+        "rating": 6.8,
+        "poster": "expanse.jpg",
+        "description": "The Roci crew fight to survive the new inter planetary war while they are also fighting a new virus origanting in eros"
+    },
+    {
+        "id": 104,
+        "title": "expanse",
+        "year": 2014,
+        "genre": "Sci-fi",
+        "rating": 6.8,
+        "poster": "expanse.jpg",
+        "description": "The Roci crew fight to survive the new inter planetary war while they are also fighting a new virus origanting in eros"
+    }
+]
